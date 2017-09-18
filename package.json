@@ -1,0 +1,16 @@
+{
+  "name": "ExerciceEvents",
+  "version": "0.1.0",
+  "description": "Example of scalable server with events",
+  "author": "David Robertaud",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.4"
+  },
+  "scripts": {
+    "start": "node starter.js"
+  },
+  "engines": {
+    "node": "^6.9.5"
+  }
+}
