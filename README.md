@@ -286,6 +286,3 @@ $ npm start [options]
 ```
 
 Check the dedicated section for the description of the options
-
-Written by David Robertaud for IBM. Software designed and coded by David Robertaud
-
